@@ -1,0 +1,17 @@
+PROGRAM
+VAR
+BEGIN
+END
+END.
+FOR
+READ
+WRITE
+TO
+DO
+;
+:=
++
+(
+)
+id
+*
